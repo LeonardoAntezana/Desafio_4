@@ -1,0 +1,1 @@
+En este proyecto utilizo las tecnologias basicas, HTML, CSS Y JS, para seguir con mis practicas
