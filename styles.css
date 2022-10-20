@@ -86,11 +86,11 @@ body{
 
 .conteiner__nots article .user__info .name{
     font-weight: bold;
-    cursor: pointer;
 }
 
-.conteiner__nots article .user__info .name:hover{
+.conteiner__nots article .user__info .name:hover, .conteiner__nots article .user__info .reacted:hover{
     color: hsl(225, 32%, 36%);
+    cursor: pointer;
 }
 
 .conteiner__nots article .user__info p{
